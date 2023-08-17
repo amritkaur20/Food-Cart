@@ -1,0 +1,13 @@
+.header-head{
+    text-align: center;
+    margin-top: 16px;
+    font-size: 40px;
+    color: white;
+    font-family: Papyrus;
+}
+.header-image{
+    margin-right: 7px;
+    width: 5%;
+    border-radius: 31px;
+
+}

@@ -1,0 +1,17 @@
+.about-us {
+    text-align: center;
+    padding: 20px;
+  }
+  
+ 
+  .about-image {
+    width: 25%;
+    height: auto;
+    margin-top: -15px;
+  }
+  .about_detail{
+   
+    font-family: 'FontAwesome';
+    letter-spacing: 2px;
+   
+  }
